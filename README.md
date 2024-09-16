@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @iurikk
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning C#
 - 📫 How to reach me: Via mail:iuri.turkadze@gmail.com
 
 <!---
